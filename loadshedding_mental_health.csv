@@ -1,0 +1,1001 @@
+Age,Gender,Province,DailyLoadsheddingHrs,StressLevel,SleepDisruption,AnxietyEpisodes,CopingMechanism,WorksFromHome,MentalHealthSupport
+56,Female,Northern Cape,6.9,10.0,No,2,Music,Yes,Yes
+46,Male,Gauteng,2.9,9.0,No,4,Family,No,No
+32,Female,Western Cape,0.0,2.0,No,0,Exercise,Yes,No
+25,Male,Gauteng,3.5,10.0,No,4,Medication,No,No
+38,Female,Western Cape,3.4,10.0,Yes,6,Exercise,No,Yes
+56,Female,Free State,5.2,10.0,Yes,6,Medication,No,No
+36,Female,Limpopo,3.9,8.0,Yes,4,Family,No,Yes
+40,Female,North West,2.2,5.0,No,2,Medication,No,No
+28,Female,Western Cape,3.1,9.0,Yes,5,Prayer,Yes,Yes
+28,Other,Free State,4.0,10.0,Yes,4,None,Yes,No
+41,Male,Mpumalanga,0.3,4.0,Yes,3,None,No,Yes
+53,Male,Free State,5.5,10.0,No,3,Music,No,Yes
+57,Male,Gauteng,2.3,10.0,No,4,Prayer,Yes,No
+41,Male,Gauteng,5.6,10.0,No,4,None,No,No
+20,Female,North West,4.1,7.0,Yes,4,Family,No,Yes
+39,Female,Free State,4.4,10.0,Yes,5,Medication,Yes,No
+19,Male,KwaZulu-Natal,5.2,9.0,Yes,6,Medication,No,Yes
+41,Male,Limpopo,4.4,10.0,Yes,6,Exercise,Yes,No
+47,Male,Gauteng,4.5,10.0,No,4,Exercise,No,No
+55,Female,North West,3.3,10.0,Yes,6,Medication,No,Yes
+19,Female,Limpopo,4.1,10.0,Yes,5,Family,Yes,No
+38,Male,Free State,2.6,10.0,No,5,Medication,Yes,No
+50,Female,Free State,3.0,10.0,Yes,6,Exercise,No,Yes
+29,Female,Northern Cape,6.4,10.0,Yes,6,None,No,No
+39,Male,North West,2.3,6.0,No,3,Music,No,Yes
+42,Female,Gauteng,3.7,10.0,Yes,7,Exercise,Yes,No
+44,Female,KwaZulu-Natal,3.7,10.0,Yes,5,Family,Yes,No
+59,Male,Free State,3.0,9.0,Yes,5,None,Yes,Yes
+45,Male,KwaZulu-Natal,4.3,10.0,Yes,5,None,No,No
+33,Male,Free State,4.4,10.0,No,4,None,Yes,Yes
+32,Male,Gauteng,2.1,6.0,No,3,Prayer,Yes,No
+20,Female,Limpopo,3.7,10.0,Yes,5,Prayer,No,Yes
+54,Female,Eastern Cape,1.9,6.0,No,3,None,No,No
+24,Male,Limpopo,4.7,10.0,Yes,5,Family,Yes,No
+38,Male,Free State,3.8,10.0,No,5,Medication,No,Yes
+26,Male,Eastern Cape,3.6,10.0,No,7,Family,No,Yes
+56,Male,Eastern Cape,4.5,8.0,Yes,3,Prayer,Yes,No
+35,Female,KwaZulu-Natal,3.1,6.0,No,3,Exercise,Yes,No
+21,Male,North West,4.9,10.0,No,5,Prayer,Yes,Yes
+42,Male,KwaZulu-Natal,2.1,7.0,No,1,Medication,No,Yes
+31,Male,KwaZulu-Natal,5.6,10.0,Yes,5,Music,No,No
+26,Female,Limpopo,2.7,4.0,No,1,Prayer,Yes,No
+43,Male,Limpopo,1.0,3.0,Yes,1,Family,Yes,No
+19,Female,Mpumalanga,3.0,8.0,No,4,Family,No,Yes
+37,Male,Free State,2.8,10.0,No,5,None,No,No
+45,Female,Mpumalanga,3.0,9.0,Yes,4,None,No,Yes
+24,Female,Gauteng,3.8,10.0,Yes,5,None,No,No
+25,Male,Free State,5.1,10.0,Yes,6,Music,No,No
+52,Male,Free State,3.2,10.0,No,4,Medication,No,No
+31,Female,Northern Cape,2.5,7.0,Yes,2,Exercise,Yes,Yes
+34,Female,Northern Cape,1.8,5.0,No,3,Family,No,No
+53,Female,Western Cape,2.8,7.0,Yes,5,Family,Yes,No
+57,Female,Western Cape,0.7,5.0,Yes,3,Medication,No,Yes
+21,Female,KwaZulu-Natal,2.4,6.0,Yes,3,Music,No,Yes
+19,Female,Gauteng,5.4,10.0,Yes,6,None,No,Yes
+23,Male,Eastern Cape,2.3,8.0,Yes,5,Medication,Yes,No
+59,Female,Eastern Cape,4.4,10.0,No,5,Exercise,Yes,No
+21,Male,Northern Cape,1.7,7.0,Yes,4,None,Yes,Yes
+46,Female,Northern Cape,6.2,10.0,Yes,5,Exercise,Yes,No
+35,Male,Northern Cape,6.3,10.0,Yes,5,Prayer,No,Yes
+43,Male,North West,4.4,10.0,No,6,Exercise,No,No
+51,Male,Western Cape,6.5,10.0,Yes,5,None,Yes,Yes
+27,Female,Limpopo,4.0,9.0,Yes,4,Prayer,Yes,No
+53,Male,Eastern Cape,4.7,10.0,Yes,2,None,No,Yes
+31,Male,Free State,5.4,10.0,No,4,Family,Yes,Yes
+48,Male,Western Cape,3.8,10.0,Yes,4,None,No,Yes
+32,Female,Mpumalanga,1.2,4.0,Yes,2,Prayer,Yes,No
+25,Other,Limpopo,4.7,10.0,Yes,4,Exercise,Yes,No
+31,Female,Western Cape,2.8,10.0,No,6,Family,Yes,Yes
+40,Female,Gauteng,2.9,7.0,No,5,Music,Yes,Yes
+57,Female,Free State,3.9,10.0,Yes,5,Music,No,Yes
+38,Female,Western Cape,4.3,10.0,Yes,4,Music,Yes,Yes
+33,Male,North West,3.7,10.0,No,5,Music,No,Yes
+35,Male,Northern Cape,4.5,10.0,Yes,7,Medication,No,Yes
+41,Male,Northern Cape,2.4,6.0,No,5,Music,Yes,No
+43,Male,Free State,3.4,10.0,No,4,Prayer,Yes,Yes
+42,Male,Northern Cape,4.8,10.0,Yes,4,Music,No,Yes
+58,Female,Western Cape,6.2,10.0,Yes,3,None,No,No
+46,Male,Mpumalanga,6.7,10.0,Yes,4,Music,No,No
+32,Female,Eastern Cape,4.1,10.0,Yes,5,Exercise,Yes,Yes
+18,Female,Eastern Cape,4.8,10.0,Yes,4,Prayer,Yes,No
+42,Male,Limpopo,6.5,10.0,Yes,4,Prayer,Yes,No
+24,Female,KwaZulu-Natal,2.5,8.0,Yes,5,Family,No,Yes
+26,Female,Gauteng,4.4,10.0,Yes,6,Medication,No,No
+41,Male,Free State,4.7,10.0,No,3,None,No,Yes
+18,Female,Limpopo,5.7,10.0,Yes,6,Prayer,No,No
+25,Female,KwaZulu-Natal,1.8,9.0,No,5,Exercise,Yes,Yes
+41,Female,North West,2.1,8.0,No,5,Music,No,Yes
+28,Female,North West,3.5,10.0,Yes,4,Prayer,No,Yes
+34,Female,Gauteng,4.1,10.0,No,5,Exercise,Yes,No
+25,Female,Northern Cape,5.2,10.0,Yes,3,Music,No,No
+52,Male,Western Cape,4.3,10.0,Yes,6,Medication,No,Yes
+52,Male,Limpopo,3.3,10.0,No,4,Prayer,No,Yes
+50,Male,Limpopo,4.1,10.0,Yes,4,Prayer,No,Yes
+22,Female,Free State,4.0,10.0,Yes,4,Exercise,Yes,Yes
+59,Male,Free State,6.1,10.0,No,7,Family,No,Yes
+56,Female,North West,3.7,10.0,Yes,4,None,Yes,Yes
+58,Female,North West,2.9,10.0,No,6,Medication,No,No
+45,Female,Mpumalanga,4.2,10.0,No,5,None,Yes,No
+24,Other,Mpumalanga,3.8,9.0,No,4,Prayer,No,Yes
+26,Female,Northern Cape,1.1,5.0,No,1,None,No,No
+25,Female,Mpumalanga,3.5,8.0,Yes,3,Music,No,No
+29,Male,Western Cape,3.3,10.0,No,5,Medication,Yes,No
+51,Female,Western Cape,2.7,10.0,No,6,None,Yes,No
+50,Male,Limpopo,5.1,10.0,Yes,5,Music,No,No
+40,Male,Eastern Cape,2.3,7.0,Yes,3,Exercise,No,No
+41,Female,Western Cape,4.2,10.0,Yes,4,None,No,Yes
+54,Female,KwaZulu-Natal,3.3,8.0,No,3,Medication,Yes,Yes
+52,Male,North West,3.7,10.0,No,4,Music,No,No
+57,Female,Free State,4.1,10.0,Yes,6,None,No,Yes
+39,Female,Mpumalanga,1.5,6.0,No,2,Exercise,No,No
+44,Female,Limpopo,3.8,10.0,No,5,None,No,Yes
+52,Female,Gauteng,6.9,10.0,Yes,4,Music,No,No
+18,Female,Free State,1.2,5.0,No,2,None,Yes,No
+52,Other,KwaZulu-Natal,3.4,9.0,Yes,5,Medication,Yes,Yes
+54,Female,Mpumalanga,5.2,10.0,Yes,5,Prayer,No,Yes
+31,Female,KwaZulu-Natal,4.0,10.0,Yes,5,Music,Yes,No
+20,Other,North West,4.5,10.0,No,6,Music,No,Yes
+18,Female,North West,0.0,1.0,No,0,Music,No,Yes
+22,Male,Northern Cape,4.4,7.0,Yes,3,Music,No,No
+43,Male,Limpopo,2.4,10.0,No,6,None,No,Yes
+31,Male,Free State,4.0,10.0,No,6,Medication,Yes,Yes
+56,Male,Free State,3.5,10.0,No,4,Exercise,Yes,No
+44,Female,Gauteng,6.9,10.0,Yes,3,Medication,No,Yes
+26,Female,Limpopo,4.3,9.0,Yes,4,Music,Yes,No
+32,Female,KwaZulu-Natal,3.3,6.0,Yes,3,Family,No,Yes
+32,Male,Gauteng,1.2,6.0,No,4,None,No,No
+43,Female,Eastern Cape,3.7,10.0,Yes,6,Family,Yes,Yes
+59,Female,Free State,4.7,10.0,Yes,5,None,Yes,Yes
+30,Female,KwaZulu-Natal,3.4,9.0,Yes,6,Music,No,No
+49,Female,Western Cape,2.7,9.0,Yes,4,None,No,No
+56,Female,Northern Cape,2.6,7.0,No,4,Music,Yes,No
+49,Male,Limpopo,4.3,10.0,No,4,Medication,No,Yes
+21,Female,North West,4.6,10.0,Yes,5,Prayer,No,No
+47,Male,Western Cape,5.5,10.0,Yes,4,None,No,Yes
+54,Male,Northern Cape,2.0,6.0,No,2,Music,Yes,No
+40,Female,Northern Cape,4.3,9.0,Yes,6,Family,Yes,No
+56,Male,Eastern Cape,3.3,10.0,Yes,3,Music,No,Yes
+32,Female,Eastern Cape,3.4,10.0,No,5,Family,No,Yes
+46,Male,Mpumalanga,4.1,6.0,Yes,4,None,No,No
+53,Female,Mpumalanga,4.1,10.0,Yes,7,Exercise,No,Yes
+30,Male,Gauteng,4.3,9.0,Yes,5,Family,No,No
+49,Other,Northern Cape,1.9,8.0,Yes,4,Music,Yes,Yes
+24,Female,Western Cape,2.4,9.0,No,5,None,No,Yes
+39,Male,Limpopo,5.7,10.0,Yes,6,Music,No,Yes
+45,Female,Northern Cape,3.2,10.0,Yes,5,Exercise,Yes,No
+19,Other,Eastern Cape,4.0,10.0,Yes,4,Prayer,Yes,Yes
+59,Female,KwaZulu-Natal,5.1,10.0,No,6,Exercise,No,Yes
+23,Male,North West,4.2,10.0,No,5,Medication,Yes,Yes
+45,Female,Mpumalanga,4.3,10.0,Yes,3,None,Yes,No
+45,Female,Free State,4.8,10.0,Yes,3,Exercise,No,Yes
+37,Female,KwaZulu-Natal,0.3,4.0,No,2,Prayer,No,Yes
+47,Female,Limpopo,2.8,9.0,No,5,Music,No,Yes
+28,Male,Eastern Cape,4.2,10.0,Yes,6,None,No,Yes
+45,Male,Eastern Cape,5.6,10.0,No,6,Family,Yes,Yes
+42,Female,Eastern Cape,3.6,10.0,No,5,Exercise,Yes,Yes
+56,Male,Free State,2.2,9.0,No,6,Prayer,Yes,Yes
+50,Male,Mpumalanga,2.3,6.0,No,3,Exercise,Yes,No
+18,Female,KwaZulu-Natal,4.8,10.0,Yes,4,Medication,No,No
+44,Female,Limpopo,3.2,8.0,No,2,None,No,Yes
+30,Female,Mpumalanga,3.5,10.0,Yes,6,Music,No,Yes
+58,Female,Limpopo,4.4,10.0,Yes,3,Prayer,Yes,No
+20,Female,Mpumalanga,0.0,3.0,No,1,Exercise,Yes,No
+56,Female,Free State,6.5,10.0,Yes,7,None,No,No
+23,Female,North West,2.4,10.0,Yes,5,Exercise,No,No
+25,Male,Limpopo,3.9,10.0,Yes,5,None,Yes,Yes
+44,Male,Mpumalanga,0.9,4.0,No,0,Medication,No,No
+26,Female,Eastern Cape,2.9,10.0,No,7,Exercise,Yes,Yes
+54,Female,Northern Cape,5.4,10.0,No,6,Medication,Yes,Yes
+50,Male,Eastern Cape,0.6,3.0,No,2,Family,No,No
+59,Male,Gauteng,5.2,10.0,No,5,Family,Yes,Yes
+41,Male,North West,3.1,9.0,No,5,Prayer,No,Yes
+32,Male,North West,4.2,10.0,Yes,5,Medication,Yes,Yes
+49,Female,Eastern Cape,4.5,10.0,Yes,4,None,Yes,Yes
+49,Male,KwaZulu-Natal,4.2,10.0,No,6,Prayer,Yes,Yes
+41,Female,Free State,2.2,9.0,No,4,Exercise,No,Yes
+58,Female,Limpopo,3.0,10.0,No,6,Exercise,No,Yes
+29,Female,North West,1.3,4.0,No,2,None,No,No
+56,Female,Eastern Cape,4.2,10.0,Yes,5,Music,No,Yes
+19,Male,Eastern Cape,6.1,10.0,No,5,Music,No,Yes
+20,Female,Free State,0.8,5.0,No,2,Exercise,Yes,No
+54,Male,Free State,2.4,8.0,No,4,None,Yes,No
+34,Male,Western Cape,3.2,9.0,Yes,7,Music,Yes,No
+19,Other,Western Cape,3.8,10.0,Yes,6,Medication,Yes,Yes
+19,Male,KwaZulu-Natal,4.8,10.0,Yes,7,Exercise,No,No
+45,Male,KwaZulu-Natal,3.3,10.0,Yes,5,Family,Yes,Yes
+40,Female,Gauteng,3.0,7.0,No,3,Medication,Yes,Yes
+54,Male,KwaZulu-Natal,5.2,10.0,Yes,4,None,Yes,No
+49,Female,Mpumalanga,4.5,10.0,Yes,7,Family,No,Yes
+50,Male,Free State,4.3,10.0,Yes,4,Medication,No,No
+18,Female,Mpumalanga,3.7,10.0,Yes,7,Music,No,Yes
+36,Female,Limpopo,5.0,10.0,Yes,4,Music,Yes,Yes
+19,Female,Eastern Cape,2.5,8.0,Yes,5,Family,Yes,Yes
+43,Female,KwaZulu-Natal,2.3,6.0,No,1,Prayer,Yes,Yes
+49,Male,Eastern Cape,4.6,10.0,Yes,5,Exercise,No,Yes
+23,Other,North West,1.1,5.0,No,3,Family,Yes,No
+49,Male,Gauteng,3.6,10.0,No,4,None,No,No
+21,Female,North West,3.0,3.0,No,1,Exercise,No,Yes
+28,Male,Gauteng,1.4,6.0,No,3,Medication,Yes,No
+34,Female,Western Cape,2.1,7.0,Yes,4,None,Yes,Yes
+55,Male,Eastern Cape,3.3,7.0,Yes,1,None,Yes,No
+41,Female,Gauteng,5.1,10.0,No,4,Music,No,Yes
+22,Female,Northern Cape,2.5,10.0,No,6,Medication,No,Yes
+51,Other,Mpumalanga,5.3,10.0,No,6,Music,No,No
+23,Male,Gauteng,3.6,8.0,Yes,5,Music,No,Yes
+39,Female,Gauteng,5.5,10.0,No,6,Prayer,No,Yes
+28,Female,Mpumalanga,2.6,10.0,No,4,Music,No,No
+33,Male,Eastern Cape,3.4,10.0,Yes,6,Exercise,Yes,No
+50,Male,Eastern Cape,4.1,10.0,Yes,5,None,Yes,Yes
+26,Male,Mpumalanga,3.2,10.0,Yes,7,Music,Yes,Yes
+23,Female,North West,4.9,10.0,Yes,6,Family,No,No
+33,Female,Northern Cape,0.2,3.0,No,2,Exercise,Yes,No
+46,Female,Limpopo,7.1,10.0,Yes,6,Medication,No,No
+20,Male,Northern Cape,4.8,10.0,Yes,5,None,Yes,Yes
+37,Male,Eastern Cape,3.2,10.0,Yes,5,Family,No,Yes
+53,Male,Western Cape,2.7,9.0,No,4,Family,Yes,Yes
+36,Other,KwaZulu-Natal,2.2,8.0,Yes,5,Medication,Yes,No
+43,Male,Gauteng,4.5,10.0,Yes,6,Family,No,No
+20,Male,Mpumalanga,5.0,10.0,Yes,6,Exercise,No,No
+36,Male,Mpumalanga,3.3,9.0,No,5,Medication,No,No
+37,Female,Gauteng,5.2,10.0,Yes,7,Family,Yes,Yes
+49,Other,KwaZulu-Natal,2.1,7.0,No,5,Medication,Yes,Yes
+24,Female,Limpopo,1.9,8.0,No,5,Medication,No,No
+58,Female,KwaZulu-Natal,6.2,10.0,Yes,4,Music,No,No
+50,Female,KwaZulu-Natal,4.4,10.0,Yes,4,Music,Yes,No
+57,Male,KwaZulu-Natal,5.6,10.0,Yes,5,Music,No,No
+56,Other,Limpopo,2.2,8.0,No,4,Family,No,Yes
+35,Female,Limpopo,2.1,9.0,No,6,None,No,Yes
+57,Female,Eastern Cape,3.0,10.0,Yes,2,Exercise,Yes,No
+18,Female,Gauteng,2.3,7.0,Yes,2,Family,Yes,Yes
+28,Female,Limpopo,4.6,10.0,Yes,5,Music,No,Yes
+45,Female,Limpopo,2.4,6.0,Yes,2,Medication,No,No
+42,Other,Eastern Cape,1.7,7.0,No,3,Family,No,Yes
+40,Female,Mpumalanga,3.7,10.0,Yes,5,Medication,Yes,No
+48,Female,Eastern Cape,1.6,5.0,No,2,Medication,Yes,No
+47,Female,North West,0.8,4.0,Yes,1,Medication,No,No
+59,Male,North West,3.7,10.0,No,6,Prayer,Yes,No
+52,Female,Western Cape,0.9,4.0,No,3,None,Yes,Yes
+24,Male,KwaZulu-Natal,4.7,10.0,Yes,6,Exercise,Yes,Yes
+33,Female,Gauteng,1.4,6.0,No,3,Exercise,No,No
+43,Other,Free State,0.1,3.0,No,3,Music,Yes,No
+19,Female,Northern Cape,3.1,7.0,No,4,Prayer,No,Yes
+18,Female,Eastern Cape,3.7,8.0,Yes,5,Family,No,Yes
+29,Male,Mpumalanga,4.2,10.0,Yes,4,Family,No,Yes
+22,Male,Northern Cape,3.8,10.0,No,5,Exercise,No,Yes
+54,Female,Mpumalanga,1.9,5.0,No,4,None,Yes,Yes
+49,Male,Northern Cape,4.6,10.0,No,4,Medication,No,No
+26,Male,Eastern Cape,4.9,10.0,Yes,4,Music,No,Yes
+58,Male,Free State,1.7,4.0,No,1,None,No,Yes
+52,Female,Northern Cape,3.2,8.0,Yes,6,Exercise,No,No
+36,Female,Eastern Cape,3.1,10.0,No,4,Prayer,No,No
+33,Male,Limpopo,3.8,10.0,Yes,5,Music,No,No
+20,Female,Free State,3.2,9.0,Yes,4,Exercise,Yes,Yes
+37,Female,Mpumalanga,3.4,10.0,No,6,Family,No,No
+41,Female,North West,4.5,10.0,No,6,Music,No,Yes
+50,Female,KwaZulu-Natal,1.8,5.0,No,1,Exercise,Yes,Yes
+41,Male,North West,4.6,10.0,Yes,5,Family,No,No
+28,Female,Free State,5.2,10.0,Yes,3,Family,Yes,Yes
+25,Female,Mpumalanga,6.0,10.0,Yes,4,Medication,No,Yes
+53,Female,Northern Cape,0.3,1.0,Yes,0,Prayer,No,Yes
+55,Female,Mpumalanga,3.2,10.0,Yes,7,Medication,No,No
+57,Male,Northern Cape,0.6,3.0,No,2,Exercise,No,No
+37,Male,Eastern Cape,0.0,2.0,No,0,None,Yes,No
+52,Female,Free State,3.7,10.0,No,5,Medication,Yes,Yes
+42,Female,Eastern Cape,2.9,10.0,Yes,6,None,Yes,Yes
+52,Female,Western Cape,3.9,10.0,Yes,4,Family,No,No
+42,Female,Northern Cape,4.2,9.0,Yes,6,Exercise,No,No
+46,Female,Limpopo,5.4,10.0,Yes,4,Prayer,No,Yes
+35,Female,Eastern Cape,3.6,10.0,No,4,None,Yes,Yes
+35,Male,Western Cape,7.9,10.0,Yes,5,Exercise,No,Yes
+19,Female,Gauteng,4.0,10.0,Yes,3,None,Yes,Yes
+52,Male,North West,6.3,10.0,Yes,3,Medication,No,No
+33,Female,Mpumalanga,0.0,2.0,No,1,Exercise,No,No
+58,Other,Western Cape,5.5,10.0,Yes,5,Medication,No,Yes
+53,Male,Free State,3.2,10.0,Yes,5,Music,No,No
+50,Male,Eastern Cape,0.6,5.0,No,2,Exercise,No,No
+21,Male,Free State,4.1,10.0,Yes,7,None,No,Yes
+50,Female,North West,3.0,6.0,No,3,Music,No,No
+31,Male,Limpopo,4.4,10.0,No,4,Medication,No,Yes
+38,Male,Free State,5.0,10.0,Yes,4,Medication,Yes,No
+37,Male,Northern Cape,1.3,5.0,No,3,None,Yes,Yes
+25,Male,Limpopo,5.0,10.0,Yes,5,Music,No,Yes
+24,Male,Limpopo,3.5,9.0,Yes,3,Family,No,Yes
+20,Female,Western Cape,5.5,10.0,Yes,5,Prayer,Yes,No
+34,Female,Limpopo,3.2,8.0,Yes,4,None,No,No
+50,Male,KwaZulu-Natal,2.8,10.0,Yes,7,Medication,Yes,No
+29,Male,North West,3.5,10.0,Yes,4,Exercise,Yes,Yes
+39,Male,Limpopo,3.7,10.0,Yes,5,Music,No,Yes
+39,Male,Free State,2.5,6.0,Yes,5,Family,No,No
+47,Female,Gauteng,2.8,6.0,No,3,Prayer,No,Yes
+55,Female,KwaZulu-Natal,1.7,5.0,Yes,2,Exercise,No,No
+55,Male,KwaZulu-Natal,2.8,7.0,No,3,Music,No,Yes
+25,Female,Northern Cape,4.5,10.0,Yes,4,Family,No,Yes
+44,Male,Limpopo,3.3,10.0,No,5,None,Yes,No
+44,Female,Northern Cape,5.0,10.0,No,6,Family,Yes,Yes
+51,Female,Northern Cape,3.2,9.0,No,6,None,Yes,No
+38,Female,Gauteng,1.4,5.0,No,1,Music,No,Yes
+47,Male,Western Cape,4.4,10.0,Yes,6,Family,Yes,No
+50,Female,Limpopo,2.5,7.0,Yes,4,Prayer,Yes,Yes
+45,Male,Eastern Cape,3.1,10.0,Yes,5,Family,Yes,No
+50,Male,Northern Cape,5.4,10.0,Yes,5,Music,No,Yes
+22,Male,North West,1.8,8.0,No,2,Exercise,Yes,Yes
+36,Male,Mpumalanga,3.7,10.0,Yes,6,Exercise,No,No
+21,Other,North West,3.4,10.0,Yes,4,Family,Yes,Yes
+52,Female,Gauteng,4.6,10.0,Yes,4,Family,Yes,Yes
+34,Male,Gauteng,4.8,10.0,Yes,5,None,Yes,No
+45,Female,Free State,3.9,10.0,Yes,3,Music,No,No
+47,Other,Western Cape,3.0,10.0,No,4,None,No,Yes
+46,Female,Northern Cape,4.2,10.0,No,6,Prayer,Yes,Yes
+23,Female,North West,5.5,10.0,Yes,5,Exercise,Yes,Yes
+52,Female,Mpumalanga,3.5,10.0,No,4,Medication,No,Yes
+58,Other,Gauteng,3.1,10.0,Yes,5,Medication,Yes,No
+54,Female,Gauteng,4.1,10.0,Yes,6,Music,Yes,Yes
+41,Male,Western Cape,3.6,10.0,No,6,Music,Yes,Yes
+46,Male,Mpumalanga,1.5,7.0,Yes,2,Medication,Yes,No
+48,Female,Mpumalanga,3.9,10.0,Yes,4,Music,Yes,Yes
+52,Male,Western Cape,1.5,7.0,No,4,Exercise,Yes,No
+50,Female,Gauteng,4.1,10.0,No,6,Prayer,Yes,Yes
+38,Male,Limpopo,2.3,8.0,No,3,Prayer,No,Yes
+49,Male,Limpopo,3.6,10.0,Yes,4,None,Yes,Yes
+40,Male,Western Cape,4.1,10.0,No,5,Exercise,No,Yes
+50,Male,Mpumalanga,7.2,10.0,No,5,Music,Yes,Yes
+20,Other,Northern Cape,4.6,10.0,No,5,Music,No,Yes
+35,Female,Western Cape,5.5,10.0,Yes,4,None,Yes,Yes
+42,Female,Western Cape,6.3,10.0,Yes,5,None,No,Yes
+59,Female,KwaZulu-Natal,4.2,10.0,Yes,4,Music,Yes,Yes
+48,Male,North West,3.9,10.0,Yes,4,Music,No,Yes
+20,Female,Mpumalanga,1.9,6.0,No,3,Exercise,Yes,No
+57,Female,Free State,3.3,10.0,Yes,5,None,Yes,No
+41,Female,Free State,2.4,7.0,No,4,Exercise,No,Yes
+49,Male,Mpumalanga,2.9,9.0,No,4,Family,No,Yes
+39,Female,KwaZulu-Natal,6.3,10.0,Yes,5,Music,Yes,No
+40,Female,KwaZulu-Natal,3.7,10.0,Yes,3,Medication,No,Yes
+19,Other,Gauteng,2.2,4.0,Yes,2,Medication,Yes,No
+44,Female,North West,5.6,10.0,Yes,5,Family,Yes,No
+59,Female,Limpopo,4.9,10.0,Yes,6,Music,No,Yes
+19,Female,Eastern Cape,5.0,10.0,No,6,None,Yes,Yes
+43,Female,Eastern Cape,0.5,4.0,No,3,Medication,No,No
+34,Male,Eastern Cape,6.4,10.0,Yes,5,None,Yes,Yes
+57,Female,Mpumalanga,2.7,10.0,No,5,Medication,No,No
+50,Female,Free State,4.7,10.0,Yes,7,None,No,Yes
+26,Female,Free State,7.3,10.0,Yes,5,Medication,No,Yes
+56,Male,Limpopo,6.7,10.0,Yes,6,None,No,Yes
+46,Male,Mpumalanga,2.0,6.0,No,4,Family,Yes,No
+59,Female,Eastern Cape,1.3,6.0,No,3,Exercise,No,No
+43,Male,Northern Cape,5.6,10.0,Yes,5,None,Yes,No
+52,Female,Free State,3.7,10.0,Yes,5,Exercise,No,No
+42,Male,Gauteng,2.7,10.0,Yes,6,Exercise,No,No
+41,Male,Western Cape,4.4,10.0,Yes,5,Music,No,Yes
+30,Female,Northern Cape,3.3,6.0,Yes,3,Family,No,No
+24,Female,Free State,4.6,10.0,Yes,3,Exercise,Yes,No
+53,Male,KwaZulu-Natal,3.6,10.0,Yes,6,Prayer,No,No
+37,Male,Free State,4.6,10.0,Yes,3,Exercise,Yes,Yes
+18,Male,Gauteng,2.2,8.0,No,3,None,No,No
+25,Female,Eastern Cape,5.6,10.0,Yes,5,Exercise,Yes,Yes
+33,Male,KwaZulu-Natal,4.5,10.0,Yes,4,None,No,Yes
+31,Female,Mpumalanga,4.5,10.0,Yes,5,None,Yes,No
+29,Other,North West,1.8,6.0,Yes,3,Prayer,No,No
+40,Male,Eastern Cape,6.0,10.0,No,6,Exercise,Yes,Yes
+32,Female,North West,3.5,9.0,No,3,Exercise,No,No
+45,Other,Northern Cape,4.6,10.0,No,4,Medication,Yes,Yes
+51,Male,Western Cape,3.0,9.0,No,5,Medication,No,No
+19,Female,KwaZulu-Natal,3.9,10.0,Yes,5,Music,Yes,No
+49,Female,Limpopo,3.9,10.0,Yes,6,None,No,Yes
+40,Female,KwaZulu-Natal,0.0,2.0,No,0,Prayer,Yes,No
+39,Female,Free State,4.4,10.0,Yes,5,Medication,No,No
+42,Female,Free State,6.4,10.0,Yes,6,Exercise,Yes,Yes
+39,Female,Free State,4.3,10.0,Yes,3,Music,No,No
+39,Female,Northern Cape,2.1,9.0,Yes,5,Prayer,Yes,No
+59,Female,Eastern Cape,4.5,10.0,No,6,Family,Yes,Yes
+23,Female,Limpopo,5.1,10.0,Yes,4,Exercise,No,Yes
+32,Female,Limpopo,4.3,10.0,Yes,5,Exercise,Yes,No
+54,Male,Free State,3.4,6.0,Yes,4,Family,Yes,No
+50,Male,North West,3.1,10.0,Yes,6,None,No,Yes
+25,Male,Northern Cape,3.1,9.0,Yes,5,None,No,No
+22,Male,Free State,4.5,10.0,Yes,6,Medication,No,No
+56,Male,Western Cape,1.4,6.0,No,5,Medication,Yes,No
+21,Female,Eastern Cape,2.9,9.0,No,5,Exercise,Yes,Yes
+23,Male,Mpumalanga,5.9,10.0,No,5,Exercise,No,No
+49,Female,Western Cape,6.0,10.0,No,6,Medication,Yes,No
+47,Male,North West,1.3,7.0,No,3,Family,No,No
+52,Female,KwaZulu-Natal,1.8,7.0,No,3,Medication,Yes,No
+57,Other,KwaZulu-Natal,3.1,7.0,Yes,3,Exercise,No,Yes
+33,Female,Western Cape,4.8,10.0,Yes,5,Prayer,No,No
+30,Female,Free State,0.8,5.0,No,2,Exercise,No,No
+59,Male,Mpumalanga,3.4,8.0,Yes,4,Prayer,Yes,Yes
+47,Female,Gauteng,2.8,6.0,No,2,Prayer,No,No
+36,Male,Gauteng,5.5,9.0,Yes,6,Exercise,Yes,No
+34,Female,North West,1.0,5.0,No,2,Music,No,Yes
+36,Male,Free State,3.6,10.0,Yes,4,Medication,No,Yes
+45,Female,Limpopo,2.9,8.0,No,3,None,Yes,Yes
+43,Female,Limpopo,5.7,10.0,Yes,6,Exercise,No,Yes
+54,Male,Eastern Cape,4.4,10.0,No,6,Prayer,No,Yes
+43,Male,Mpumalanga,2.6,8.0,No,3,Exercise,Yes,Yes
+40,Male,Mpumalanga,4.8,10.0,No,5,Medication,No,No
+26,Male,KwaZulu-Natal,2.9,8.0,No,4,Family,Yes,No
+29,Female,Northern Cape,5.0,10.0,No,4,Prayer,Yes,No
+18,Male,North West,3.1,8.0,Yes,2,None,No,Yes
+18,Male,Gauteng,5.1,10.0,Yes,6,None,No,No
+51,Male,North West,4.2,10.0,Yes,4,None,Yes,No
+49,Female,Limpopo,8.0,10.0,Yes,5,Family,No,No
+42,Male,Limpopo,3.4,10.0,No,5,Music,No,Yes
+57,Male,Western Cape,4.1,10.0,Yes,5,Prayer,No,Yes
+18,Male,Eastern Cape,2.8,9.0,Yes,4,Family,No,No
+33,Male,Mpumalanga,3.5,10.0,Yes,4,Prayer,Yes,No
+56,Female,North West,0.0,1.0,Yes,0,Family,No,No
+22,Male,Limpopo,4.2,10.0,No,4,Family,No,Yes
+39,Male,Northern Cape,5.5,10.0,Yes,6,Music,Yes,Yes
+46,Female,KwaZulu-Natal,4.1,10.0,Yes,6,Prayer,No,No
+20,Female,Gauteng,1.5,5.0,No,4,Family,Yes,Yes
+29,Male,Eastern Cape,2.3,8.0,No,4,Music,Yes,No
+43,Female,Northern Cape,0.0,1.0,No,2,Exercise,No,No
+33,Female,Eastern Cape,5.0,10.0,Yes,5,Medication,No,No
+54,Male,Western Cape,2.0,8.0,Yes,3,Family,No,Yes
+39,Female,Limpopo,3.5,10.0,No,7,None,No,Yes
+46,Female,KwaZulu-Natal,3.3,10.0,No,6,Music,No,No
+31,Female,Northern Cape,5.7,10.0,Yes,3,Music,No,No
+45,Male,Eastern Cape,3.6,10.0,Yes,7,Family,No,Yes
+22,Male,Mpumalanga,4.7,10.0,No,4,Music,Yes,Yes
+47,Female,Western Cape,4.3,10.0,Yes,4,Exercise,Yes,Yes
+22,Other,Mpumalanga,5.5,10.0,Yes,6,Music,Yes,No
+29,Female,KwaZulu-Natal,3.1,10.0,Yes,6,Medication,No,No
+33,Male,Northern Cape,6.3,10.0,No,4,Medication,No,No
+43,Female,Western Cape,0.5,4.0,No,3,None,Yes,No
+43,Female,Northern Cape,4.8,10.0,Yes,6,Exercise,Yes,No
+38,Male,Limpopo,2.2,6.0,No,2,Medication,Yes,No
+56,Male,Free State,2.8,10.0,No,5,Family,Yes,Yes
+53,Female,Western Cape,4.4,10.0,Yes,7,Prayer,No,No
+50,Male,Mpumalanga,4.3,10.0,Yes,3,Prayer,No,Yes
+47,Female,KwaZulu-Natal,4.4,10.0,No,6,Prayer,Yes,Yes
+54,Male,Limpopo,1.4,6.0,No,4,Family,No,No
+40,Male,Free State,5.7,9.0,Yes,5,Music,No,Yes
+27,Male,Gauteng,2.1,5.0,No,3,Family,No,No
+22,Female,Limpopo,2.3,10.0,Yes,7,Music,Yes,Yes
+53,Female,KwaZulu-Natal,4.5,10.0,No,7,Prayer,No,Yes
+51,Male,Eastern Cape,3.1,10.0,No,4,None,Yes,No
+48,Female,Western Cape,4.0,9.0,Yes,5,None,No,Yes
+27,Female,Northern Cape,0.3,2.0,No,3,Music,No,No
+36,Female,KwaZulu-Natal,3.9,10.0,No,4,Prayer,No,Yes
+49,Male,Western Cape,3.8,10.0,Yes,5,Family,Yes,Yes
+18,Female,Northern Cape,2.7,8.0,No,5,None,Yes,Yes
+22,Female,North West,0.4,4.0,Yes,0,Music,Yes,No
+21,Male,Mpumalanga,3.2,10.0,Yes,6,Family,No,Yes
+33,Male,Gauteng,3.4,10.0,Yes,4,Prayer,Yes,No
+41,Female,Limpopo,2.9,7.0,No,4,Exercise,Yes,Yes
+33,Other,KwaZulu-Natal,0.7,2.0,No,2,Prayer,No,No
+19,Male,Gauteng,5.9,10.0,Yes,3,Prayer,No,No
+45,Female,Eastern Cape,2.5,7.0,No,4,Family,No,No
+49,Female,Western Cape,3.2,10.0,Yes,7,Family,Yes,No
+44,Female,Western Cape,0.0,3.0,No,1,Medication,No,No
+37,Other,KwaZulu-Natal,5.9,10.0,Yes,6,Medication,Yes,No
+41,Female,Free State,2.8,10.0,No,6,Family,No,Yes
+29,Male,Free State,3.6,10.0,Yes,3,Family,Yes,Yes
+52,Male,North West,5.2,10.0,Yes,6,Exercise,No,No
+50,Male,Mpumalanga,2.5,6.0,Yes,4,Exercise,No,No
+50,Female,Northern Cape,4.9,10.0,Yes,6,Prayer,No,Yes
+54,Female,Eastern Cape,0.4,4.0,No,2,None,No,No
+29,Male,Gauteng,4.3,10.0,Yes,4,Exercise,Yes,Yes
+20,Female,Free State,5.9,10.0,No,6,Prayer,Yes,No
+18,Female,North West,2.6,9.0,No,5,Music,No,Yes
+50,Female,North West,5.2,10.0,No,4,Medication,No,No
+57,Female,KwaZulu-Natal,6.3,10.0,Yes,5,None,No,No
+27,Female,Eastern Cape,3.1,9.0,Yes,5,Prayer,No,No
+46,Male,Northern Cape,3.0,10.0,No,3,Family,No,Yes
+30,Male,Mpumalanga,2.2,7.0,Yes,4,Music,No,Yes
+29,Male,Limpopo,2.7,6.0,Yes,3,Medication,Yes,Yes
+48,Male,KwaZulu-Natal,2.3,8.0,No,5,Music,No,No
+19,Female,Northern Cape,2.2,4.0,No,0,Prayer,Yes,No
+52,Female,Limpopo,5.3,10.0,Yes,6,Exercise,Yes,Yes
+40,Male,Limpopo,2.3,6.0,No,4,Medication,No,Yes
+34,Female,Eastern Cape,3.9,10.0,No,3,Music,No,No
+43,Male,Eastern Cape,3.6,10.0,Yes,3,Exercise,No,Yes
+25,Female,Gauteng,5.7,10.0,Yes,7,None,No,No
+46,Other,North West,2.7,7.0,No,3,Prayer,No,No
+43,Male,Northern Cape,4.1,10.0,No,7,Prayer,Yes,No
+27,Female,KwaZulu-Natal,4.7,10.0,Yes,3,Medication,No,Yes
+43,Male,Western Cape,5.7,10.0,No,5,Music,No,Yes
+51,Female,KwaZulu-Natal,2.7,8.0,Yes,4,None,No,No
+58,Female,Gauteng,2.6,8.0,No,4,Family,Yes,No
+24,Male,Mpumalanga,1.9,7.0,Yes,4,Medication,Yes,No
+21,Female,North West,6.9,10.0,No,6,Family,No,No
+28,Male,Western Cape,5.6,10.0,Yes,5,Medication,No,No
+46,Male,Free State,3.4,8.0,No,3,Music,No,No
+53,Female,Mpumalanga,6.4,10.0,Yes,6,None,No,Yes
+42,Male,Eastern Cape,3.3,10.0,Yes,6,Music,No,Yes
+38,Female,Limpopo,4.6,10.0,No,5,Prayer,No,Yes
+53,Male,Free State,3.5,8.0,Yes,5,Family,No,Yes
+27,Other,KwaZulu-Natal,4.1,10.0,Yes,6,Exercise,No,Yes
+54,Male,KwaZulu-Natal,3.9,9.0,No,4,Prayer,Yes,Yes
+26,Female,Eastern Cape,2.9,10.0,No,6,Prayer,No,No
+41,Female,Gauteng,5.1,9.0,Yes,4,Family,No,Yes
+52,Male,Northern Cape,4.6,10.0,Yes,6,Medication,No,Yes
+52,Other,Free State,5.0,10.0,No,5,Prayer,Yes,Yes
+53,Female,Free State,4.0,10.0,No,6,None,No,No
+35,Female,Mpumalanga,2.1,5.0,No,2,Prayer,No,No
+56,Female,North West,6.1,10.0,No,6,None,No,Yes
+49,Other,Mpumalanga,3.1,8.0,No,3,Music,Yes,Yes
+41,Female,Northern Cape,4.0,10.0,Yes,5,Medication,No,No
+40,Female,KwaZulu-Natal,4.5,10.0,Yes,6,None,No,No
+49,Female,KwaZulu-Natal,4.0,10.0,Yes,5,Prayer,No,No
+54,Male,KwaZulu-Natal,4.9,10.0,Yes,5,Medication,Yes,Yes
+29,Male,KwaZulu-Natal,5.1,10.0,No,7,Medication,No,No
+30,Female,Northern Cape,3.2,10.0,No,6,None,Yes,Yes
+40,Male,Eastern Cape,5.9,10.0,Yes,6,None,Yes,Yes
+42,Female,North West,3.1,9.0,Yes,5,Exercise,No,Yes
+52,Male,Northern Cape,4.0,10.0,Yes,6,Exercise,No,Yes
+58,Male,North West,2.9,8.0,Yes,6,Medication,No,No
+47,Female,Northern Cape,2.5,9.0,No,4,Family,No,Yes
+34,Female,KwaZulu-Natal,5.1,10.0,Yes,6,Family,Yes,Yes
+37,Male,Eastern Cape,8.0,10.0,Yes,5,Exercise,No,Yes
+42,Female,Free State,3.0,10.0,No,5,Prayer,Yes,Yes
+39,Female,Mpumalanga,5.3,10.0,No,5,Music,No,No
+30,Male,Limpopo,3.0,6.0,Yes,3,Medication,No,No
+36,Female,Eastern Cape,3.5,10.0,Yes,4,Music,No,No
+53,Male,Free State,6.1,10.0,Yes,6,Exercise,No,Yes
+29,Male,Gauteng,1.9,7.0,Yes,3,None,No,Yes
+58,Other,Northern Cape,1.5,5.0,Yes,3,Medication,No,No
+36,Male,Gauteng,3.4,6.0,Yes,4,Exercise,Yes,Yes
+29,Female,Free State,4.5,10.0,No,5,Prayer,Yes,No
+26,Female,Eastern Cape,4.2,9.0,Yes,6,Medication,No,No
+24,Male,Northern Cape,4.0,10.0,No,4,Medication,No,Yes
+45,Female,Limpopo,3.6,10.0,No,4,Family,Yes,Yes
+31,Other,KwaZulu-Natal,4.7,10.0,No,5,None,Yes,Yes
+48,Male,Northern Cape,0.0,3.0,Yes,0,Medication,No,No
+36,Female,Northern Cape,2.4,7.0,Yes,4,None,No,No
+33,Female,Eastern Cape,3.4,10.0,Yes,4,Exercise,Yes,No
+22,Female,Eastern Cape,4.6,10.0,Yes,4,Prayer,Yes,No
+52,Female,Free State,5.7,10.0,No,6,Prayer,No,Yes
+29,Male,Western Cape,2.2,7.0,No,4,Medication,No,Yes
+42,Female,Northern Cape,5.7,10.0,Yes,5,Medication,Yes,Yes
+38,Female,Mpumalanga,2.8,9.0,No,2,Exercise,Yes,Yes
+53,Female,Northern Cape,3.3,7.0,Yes,5,Family,No,Yes
+40,Female,Free State,4.4,10.0,Yes,6,Family,No,No
+33,Female,North West,3.2,10.0,Yes,7,Family,No,No
+56,Female,Gauteng,5.2,10.0,No,4,None,No,Yes
+59,Female,KwaZulu-Natal,2.9,7.0,No,2,Family,Yes,Yes
+56,Female,Western Cape,2.9,9.0,No,5,Prayer,No,Yes
+31,Female,Limpopo,5.1,10.0,Yes,5,None,No,No
+48,Female,Limpopo,2.4,9.0,Yes,5,Exercise,Yes,Yes
+22,Female,Limpopo,3.9,10.0,No,7,Prayer,No,Yes
+52,Male,Eastern Cape,1.0,3.0,No,2,Prayer,No,Yes
+40,Male,Limpopo,6.2,10.0,Yes,5,Music,Yes,Yes
+46,Male,KwaZulu-Natal,5.3,10.0,Yes,5,Exercise,Yes,Yes
+28,Female,Gauteng,7.6,10.0,Yes,3,Exercise,Yes,No
+35,Female,Limpopo,5.5,10.0,Yes,6,Music,Yes,No
+29,Female,Northern Cape,1.8,5.0,Yes,4,None,No,No
+26,Female,Northern Cape,4.5,10.0,No,6,Family,No,Yes
+27,Female,Eastern Cape,2.1,6.0,No,1,Family,No,Yes
+34,Male,KwaZulu-Natal,5.9,10.0,Yes,5,Family,Yes,No
+55,Female,Gauteng,1.8,7.0,No,5,Family,No,Yes
+24,Female,Western Cape,1.8,6.0,Yes,2,Family,No,Yes
+30,Female,Free State,1.1,6.0,Yes,4,Music,No,No
+57,Male,Gauteng,2.8,9.0,No,5,Exercise,Yes,No
+59,Male,Free State,2.5,5.0,No,3,None,Yes,No
+26,Male,North West,1.6,7.0,No,3,Prayer,Yes,Yes
+44,Male,Free State,6.5,10.0,Yes,5,Family,No,Yes
+19,Female,Mpumalanga,4.3,10.0,Yes,5,Music,No,No
+22,Male,Northern Cape,4.1,10.0,Yes,4,None,No,Yes
+46,Female,KwaZulu-Natal,5.9,10.0,No,5,None,No,Yes
+54,Female,Eastern Cape,3.9,10.0,Yes,2,None,Yes,Yes
+55,Male,Mpumalanga,2.4,7.0,Yes,3,Music,No,Yes
+36,Male,Free State,0.9,5.0,No,3,Prayer,No,Yes
+25,Male,Limpopo,2.3,7.0,Yes,5,Family,Yes,Yes
+18,Male,KwaZulu-Natal,5.8,10.0,No,5,None,Yes,No
+39,Male,Mpumalanga,1.6,6.0,No,2,Music,No,Yes
+34,Female,Eastern Cape,4.0,10.0,Yes,6,Exercise,Yes,Yes
+24,Male,Northern Cape,5.1,10.0,Yes,4,Music,Yes,No
+42,Other,KwaZulu-Natal,3.9,10.0,No,6,Music,No,No
+21,Male,Eastern Cape,4.1,10.0,Yes,4,Music,No,Yes
+53,Female,North West,4.5,10.0,Yes,4,None,Yes,Yes
+23,Female,North West,4.1,10.0,No,4,Music,No,No
+48,Female,Eastern Cape,5.9,10.0,No,5,Exercise,No,Yes
+36,Female,Mpumalanga,1.9,7.0,No,3,None,No,Yes
+56,Female,KwaZulu-Natal,3.9,10.0,Yes,6,Exercise,Yes,Yes
+44,Female,Mpumalanga,0.8,1.0,No,0,Medication,No,Yes
+27,Female,Western Cape,0.4,3.0,No,0,Music,No,Yes
+43,Female,Free State,3.4,9.0,Yes,5,Family,No,No
+36,Male,Western Cape,4.3,10.0,Yes,3,Family,Yes,No
+56,Male,North West,5.9,10.0,Yes,4,None,Yes,Yes
+20,Female,Northern Cape,7.1,10.0,No,5,Family,No,Yes
+30,Female,Gauteng,5.5,10.0,Yes,5,None,Yes,No
+45,Female,Free State,4.6,10.0,Yes,3,Music,No,Yes
+37,Female,North West,3.7,10.0,Yes,6,Prayer,Yes,Yes
+45,Other,Mpumalanga,1.2,2.0,No,3,Prayer,Yes,Yes
+25,Male,Mpumalanga,3.3,10.0,Yes,7,Exercise,No,No
+58,Male,Mpumalanga,5.4,10.0,Yes,6,Music,Yes,Yes
+56,Male,Northern Cape,4.8,10.0,No,5,Family,No,No
+18,Female,Western Cape,1.6,7.0,No,3,Music,Yes,Yes
+20,Female,Gauteng,4.4,10.0,Yes,5,Medication,No,Yes
+30,Male,Mpumalanga,4.3,10.0,No,7,Prayer,No,Yes
+45,Female,Free State,4.0,10.0,Yes,5,Family,Yes,No
+42,Male,KwaZulu-Natal,3.5,10.0,No,6,Prayer,No,No
+50,Female,Gauteng,4.5,10.0,Yes,6,Music,Yes,No
+55,Female,Northern Cape,4.5,10.0,No,5,Family,No,Yes
+23,Male,Gauteng,2.5,10.0,No,4,Exercise,No,Yes
+49,Female,KwaZulu-Natal,4.2,10.0,No,5,Music,Yes,Yes
+38,Male,Free State,3.2,10.0,No,5,Exercise,No,Yes
+33,Male,KwaZulu-Natal,1.3,4.0,No,3,Family,No,Yes
+38,Male,Eastern Cape,2.7,9.0,Yes,5,Prayer,No,No
+28,Male,Free State,1.2,7.0,Yes,2,Medication,Yes,No
+54,Male,Gauteng,5.0,10.0,Yes,6,None,No,Yes
+53,Female,Mpumalanga,4.0,10.0,Yes,5,Prayer,Yes,Yes
+52,Female,Gauteng,3.0,7.0,Yes,1,Exercise,No,Yes
+36,Female,Gauteng,5.6,10.0,No,5,Music,Yes,No
+37,Male,Free State,3.6,10.0,Yes,6,Family,No,No
+35,Female,Eastern Cape,1.4,5.0,No,2,Prayer,Yes,Yes
+58,Male,Gauteng,2.8,9.0,No,4,Medication,No,Yes
+31,Male,North West,5.9,10.0,No,6,Family,No,Yes
+32,Female,Limpopo,2.5,10.0,No,5,Exercise,No,No
+48,Male,Limpopo,3.9,10.0,No,3,Family,No,No
+18,Female,Gauteng,4.6,10.0,Yes,6,Family,No,Yes
+20,Female,Mpumalanga,4.4,10.0,No,7,Music,No,Yes
+33,Male,Northern Cape,7.2,10.0,Yes,4,None,No,Yes
+40,Male,Northern Cape,1.7,6.0,No,1,Exercise,No,No
+28,Male,Free State,1.9,5.0,No,3,Music,No,No
+29,Female,Limpopo,1.8,5.0,No,2,None,No,No
+27,Male,Gauteng,3.1,10.0,No,6,Music,Yes,Yes
+49,Male,Northern Cape,5.1,10.0,Yes,7,None,No,Yes
+33,Male,Gauteng,2.0,9.0,No,3,None,Yes,Yes
+25,Female,Free State,5.2,10.0,No,4,None,No,No
+55,Male,Limpopo,3.6,10.0,No,5,Music,No,Yes
+29,Male,KwaZulu-Natal,1.8,7.0,No,5,Family,No,No
+41,Female,North West,0.9,3.0,No,5,None,Yes,No
+45,Female,North West,1.2,5.0,Yes,3,Family,Yes,Yes
+25,Male,Northern Cape,2.5,7.0,No,2,Exercise,No,No
+45,Male,North West,3.2,9.0,Yes,4,Medication,Yes,Yes
+53,Male,KwaZulu-Natal,5.5,10.0,Yes,4,Family,No,No
+43,Female,Gauteng,4.7,10.0,Yes,6,Medication,No,Yes
+25,Male,Free State,2.2,6.0,No,3,None,No,No
+45,Female,KwaZulu-Natal,4.1,10.0,Yes,4,Medication,Yes,Yes
+45,Female,Free State,6.0,10.0,Yes,4,Medication,No,No
+54,Female,Free State,6.3,10.0,Yes,5,None,Yes,No
+58,Male,Limpopo,3.0,10.0,No,5,Family,No,Yes
+53,Female,Gauteng,4.9,10.0,Yes,5,None,Yes,No
+44,Female,North West,5.6,10.0,Yes,5,Exercise,No,No
+34,Female,Limpopo,1.2,5.0,No,4,Prayer,Yes,No
+26,Male,Free State,2.7,10.0,No,5,Music,No,Yes
+50,Other,Northern Cape,6.8,10.0,Yes,4,None,Yes,Yes
+37,Male,North West,3.0,8.0,Yes,3,None,No,No
+30,Male,North West,0.0,1.0,Yes,0,Medication,No,Yes
+45,Male,Gauteng,3.3,10.0,Yes,5,Exercise,Yes,Yes
+46,Female,Eastern Cape,5.2,10.0,No,3,Medication,No,No
+30,Male,Western Cape,3.5,8.0,Yes,4,Family,No,Yes
+52,Male,Western Cape,4.6,10.0,Yes,6,None,Yes,No
+23,Male,Western Cape,4.9,10.0,Yes,6,None,Yes,Yes
+35,Male,Eastern Cape,3.0,10.0,Yes,5,Medication,No,No
+22,Female,Gauteng,2.7,8.0,No,5,None,Yes,Yes
+42,Female,Eastern Cape,3.7,10.0,No,4,Family,Yes,Yes
+19,Male,Western Cape,3.8,10.0,Yes,4,Prayer,Yes,Yes
+27,Female,Limpopo,3.6,10.0,No,6,Music,No,No
+47,Female,KwaZulu-Natal,3.6,10.0,No,6,Music,No,No
+22,Male,Free State,2.4,8.0,No,3,Music,Yes,Yes
+50,Male,Eastern Cape,4.6,10.0,Yes,3,Prayer,No,Yes
+18,Other,Gauteng,4.4,10.0,Yes,4,None,No,No
+35,Female,Gauteng,1.5,5.0,No,3,Medication,Yes,No
+49,Male,KwaZulu-Natal,2.9,9.0,No,4,Exercise,Yes,No
+28,Female,Northern Cape,3.6,10.0,Yes,5,None,No,Yes
+38,Male,North West,2.7,9.0,No,6,Prayer,No,No
+43,Female,Western Cape,4.5,10.0,Yes,5,Family,Yes,No
+42,Male,Northern Cape,3.4,10.0,Yes,5,Prayer,No,No
+39,Male,Western Cape,3.8,10.0,Yes,6,Music,No,No
+44,Male,KwaZulu-Natal,2.9,9.0,Yes,3,None,Yes,Yes
+30,Female,Western Cape,0.5,4.0,Yes,1,Music,No,Yes
+50,Female,KwaZulu-Natal,0.4,4.0,No,3,Exercise,No,No
+51,Male,Mpumalanga,4.4,10.0,No,5,Family,No,Yes
+58,Male,Northern Cape,3.9,10.0,Yes,5,Music,No,No
+52,Female,Northern Cape,4.2,10.0,Yes,5,Exercise,Yes,No
+18,Male,North West,3.7,10.0,Yes,6,Prayer,No,Yes
+38,Male,KwaZulu-Natal,3.8,10.0,Yes,5,Music,No,Yes
+23,Other,Eastern Cape,5.0,10.0,No,5,Music,No,Yes
+45,Male,Mpumalanga,4.2,10.0,Yes,6,Medication,Yes,Yes
+34,Female,Limpopo,5.1,10.0,Yes,7,Family,Yes,Yes
+22,Other,Western Cape,3.8,10.0,No,7,Family,Yes,Yes
+48,Male,Mpumalanga,3.0,10.0,No,4,Prayer,Yes,Yes
+22,Male,KwaZulu-Natal,3.8,10.0,No,7,Medication,Yes,Yes
+55,Male,Free State,2.2,7.0,No,2,Exercise,No,Yes
+20,Female,Western Cape,2.9,10.0,No,7,Exercise,Yes,Yes
+40,Female,Gauteng,3.8,10.0,Yes,4,Prayer,No,Yes
+54,Female,Northern Cape,3.7,10.0,Yes,5,Family,Yes,No
+54,Male,KwaZulu-Natal,3.3,10.0,Yes,5,Exercise,Yes,Yes
+27,Female,Gauteng,1.4,6.0,Yes,2,Prayer,Yes,No
+27,Female,North West,4.5,10.0,No,5,Exercise,Yes,No
+36,Female,Limpopo,4.8,10.0,No,4,None,No,No
+34,Female,Limpopo,6.0,10.0,Yes,4,Music,Yes,Yes
+38,Female,Gauteng,4.2,9.0,Yes,4,Family,No,Yes
+31,Female,Northern Cape,3.5,10.0,Yes,7,None,No,Yes
+26,Female,North West,2.0,8.0,No,4,Prayer,No,Yes
+18,Male,Free State,5.7,10.0,No,6,Prayer,No,No
+30,Male,Northern Cape,3.9,10.0,Yes,4,None,Yes,No
+21,Female,Mpumalanga,3.8,10.0,Yes,4,Music,No,No
+18,Male,Limpopo,3.1,10.0,Yes,5,Music,No,Yes
+57,Female,Mpumalanga,3.0,7.0,No,5,Medication,Yes,No
+49,Other,Western Cape,4.5,10.0,Yes,5,Exercise,Yes,Yes
+51,Female,Eastern Cape,2.0,6.0,No,4,Medication,Yes,Yes
+45,Male,KwaZulu-Natal,5.9,10.0,Yes,6,Music,No,Yes
+48,Male,North West,5.6,10.0,No,5,None,No,Yes
+25,Male,Northern Cape,3.0,9.0,Yes,4,Exercise,Yes,Yes
+56,Female,Limpopo,2.2,8.0,No,4,None,No,No
+43,Female,Mpumalanga,0.5,1.0,Yes,1,Medication,No,No
+51,Female,Western Cape,1.6,5.0,Yes,1,Prayer,No,Yes
+20,Male,KwaZulu-Natal,4.6,10.0,Yes,5,None,Yes,Yes
+29,Female,KwaZulu-Natal,4.0,10.0,Yes,5,Medication,No,Yes
+18,Female,Northern Cape,4.2,10.0,No,4,Medication,No,No
+22,Male,North West,0.7,4.0,No,2,Medication,No,Yes
+47,Female,Free State,2.9,10.0,No,4,Prayer,No,No
+47,Male,Northern Cape,5.6,10.0,Yes,3,Prayer,No,Yes
+34,Male,Mpumalanga,3.4,10.0,No,5,Prayer,Yes,No
+40,Female,Eastern Cape,1.6,5.0,Yes,3,Exercise,No,Yes
+32,Male,Gauteng,3.3,10.0,No,5,Prayer,No,Yes
+54,Female,Free State,2.3,10.0,No,4,Prayer,No,Yes
+38,Female,North West,4.0,10.0,No,4,Prayer,Yes,No
+31,Female,Western Cape,3.5,10.0,No,6,None,Yes,Yes
+19,Male,Free State,4.3,10.0,No,7,Prayer,No,Yes
+28,Female,Limpopo,1.7,8.0,No,5,Exercise,Yes,Yes
+56,Female,North West,2.8,10.0,No,6,Medication,Yes,Yes
+55,Female,Eastern Cape,5.1,10.0,Yes,4,None,Yes,Yes
+51,Male,Limpopo,1.5,5.0,No,2,Music,No,No
+55,Male,Free State,2.0,6.0,No,4,Prayer,Yes,No
+51,Female,Gauteng,3.8,8.0,Yes,3,Medication,No,Yes
+35,Male,Gauteng,3.9,10.0,No,4,Medication,No,No
+47,Female,Eastern Cape,2.8,7.0,No,4,None,Yes,Yes
+32,Female,KwaZulu-Natal,3.1,9.0,Yes,5,Music,No,No
+44,Female,Western Cape,4.3,10.0,Yes,4,Family,No,No
+51,Female,KwaZulu-Natal,4.8,10.0,Yes,3,Exercise,No,No
+55,Other,Gauteng,1.9,6.0,Yes,4,Family,No,No
+50,Female,Gauteng,4.0,10.0,Yes,3,Medication,No,No
+41,Female,Mpumalanga,5.8,10.0,No,6,Family,No,No
+32,Female,Limpopo,3.3,10.0,Yes,4,Medication,Yes,Yes
+47,Male,Free State,1.9,5.0,No,4,Family,No,No
+59,Male,Western Cape,1.8,4.0,No,1,Medication,No,Yes
+34,Female,Eastern Cape,3.3,10.0,No,7,Medication,No,Yes
+22,Male,Free State,5.1,10.0,Yes,5,None,No,No
+46,Female,Mpumalanga,3.4,10.0,No,6,Music,Yes,No
+21,Male,Gauteng,3.8,9.0,Yes,4,Medication,No,Yes
+27,Female,Eastern Cape,2.0,7.0,No,3,Exercise,Yes,No
+34,Female,Gauteng,5.0,10.0,Yes,5,Exercise,No,Yes
+27,Female,Western Cape,1.8,6.0,No,5,Prayer,Yes,No
+34,Female,Limpopo,2.7,8.0,Yes,4,Medication,No,Yes
+37,Female,Free State,4.4,10.0,Yes,6,Medication,No,Yes
+41,Male,Free State,0.4,2.0,No,2,Medication,No,No
+22,Female,KwaZulu-Natal,3.8,10.0,No,6,Family,No,Yes
+51,Male,Eastern Cape,1.9,10.0,No,4,Medication,No,Yes
+23,Other,Mpumalanga,3.5,10.0,No,7,Medication,No,No
+19,Female,KwaZulu-Natal,3.0,9.0,No,4,Exercise,No,No
+30,Male,Western Cape,6.7,10.0,Yes,5,Music,No,Yes
+28,Male,Mpumalanga,2.9,9.0,Yes,6,Music,No,Yes
+40,Female,Limpopo,6.3,10.0,Yes,7,Prayer,No,No
+33,Male,Limpopo,4.4,10.0,Yes,6,Exercise,Yes,No
+48,Male,Limpopo,2.3,4.0,No,1,Medication,No,No
+28,Female,Limpopo,4.0,6.0,Yes,3,Music,Yes,No
+33,Female,KwaZulu-Natal,3.0,9.0,Yes,5,None,No,No
+25,Female,North West,3.9,10.0,Yes,5,None,Yes,No
+21,Female,Mpumalanga,2.4,9.0,No,3,None,No,Yes
+57,Female,Eastern Cape,6.0,10.0,No,6,Medication,Yes,Yes
+21,Female,Western Cape,4.9,10.0,Yes,5,Medication,Yes,Yes
+42,Male,Northern Cape,3.5,10.0,Yes,4,Prayer,Yes,No
+20,Female,Gauteng,6.1,10.0,Yes,5,Prayer,Yes,Yes
+49,Male,Eastern Cape,3.6,10.0,Yes,5,Prayer,No,Yes
+20,Other,Gauteng,5.1,10.0,Yes,4,Family,Yes,Yes
+44,Female,Mpumalanga,3.6,10.0,Yes,6,None,Yes,No
+46,Female,Eastern Cape,4.1,10.0,Yes,5,Medication,Yes,No
+49,Male,Limpopo,3.4,10.0,Yes,7,None,No,No
+36,Female,Limpopo,3.6,10.0,No,5,Prayer,No,No
+38,Female,Northern Cape,3.8,10.0,Yes,4,Medication,Yes,Yes
+22,Male,Gauteng,2.5,8.0,No,3,Exercise,No,No
+35,Male,Western Cape,2.9,10.0,Yes,5,Music,No,Yes
+45,Female,Mpumalanga,3.2,10.0,No,5,Music,Yes,No
+59,Male,Limpopo,3.8,10.0,No,4,Prayer,No,Yes
+39,Female,North West,3.5,10.0,Yes,5,None,Yes,Yes
+38,Male,KwaZulu-Natal,5.3,10.0,Yes,4,Exercise,No,Yes
+23,Male,KwaZulu-Natal,4.8,10.0,Yes,5,Medication,Yes,No
+18,Female,Western Cape,3.2,10.0,Yes,4,None,No,No
+22,Male,KwaZulu-Natal,5.6,10.0,No,6,Prayer,Yes,Yes
+58,Female,Gauteng,6.3,10.0,Yes,5,None,No,Yes
+29,Male,Limpopo,0.4,4.0,No,3,Prayer,No,No
+43,Male,Limpopo,4.9,10.0,Yes,6,Family,Yes,Yes
+51,Female,North West,2.5,3.0,No,2,Music,No,No
+31,Female,Eastern Cape,4.7,10.0,Yes,5,Music,Yes,No
+43,Female,KwaZulu-Natal,5.4,10.0,Yes,3,None,No,Yes
+44,Female,Gauteng,2.2,4.0,No,3,Exercise,Yes,No
+26,Female,Free State,0.7,4.0,No,1,Medication,Yes,Yes
+43,Male,KwaZulu-Natal,4.8,10.0,Yes,5,Prayer,No,Yes
+39,Male,Western Cape,3.7,10.0,No,5,Medication,No,Yes
+47,Female,Eastern Cape,1.0,4.0,No,2,Music,No,No
+34,Female,KwaZulu-Natal,7.3,10.0,No,6,Exercise,Yes,Yes
+43,Female,Gauteng,4.4,10.0,Yes,4,Exercise,Yes,No
+53,Male,KwaZulu-Natal,4.5,10.0,No,7,Medication,No,No
+18,Male,Western Cape,5.5,10.0,No,6,Music,No,Yes
+25,Female,Free State,2.6,7.0,Yes,3,Medication,Yes,Yes
+52,Female,Mpumalanga,3.7,10.0,Yes,5,None,Yes,Yes
+32,Female,Northern Cape,1.5,3.0,No,0,Exercise,Yes,No
+39,Female,Free State,2.6,9.0,No,4,Exercise,Yes,No
+31,Female,KwaZulu-Natal,4.1,10.0,Yes,5,None,Yes,Yes
+43,Male,Limpopo,1.0,6.0,No,3,Music,Yes,No
+45,Male,North West,2.5,9.0,Yes,6,Exercise,No,Yes
+40,Male,Limpopo,2.1,5.0,Yes,5,Family,No,No
+31,Male,Free State,3.7,9.0,No,5,Family,Yes,Yes
+41,Female,Limpopo,4.4,10.0,Yes,5,Family,Yes,No
+19,Female,Gauteng,4.6,10.0,No,5,Prayer,Yes,No
+43,Female,Limpopo,5.0,10.0,Yes,3,Prayer,No,No
+31,Male,Eastern Cape,5.6,10.0,Yes,4,Music,No,No
+24,Male,Mpumalanga,4.4,10.0,Yes,5,None,No,Yes
+20,Male,KwaZulu-Natal,6.3,10.0,Yes,6,Medication,No,No
+40,Male,Limpopo,3.7,10.0,Yes,6,Music,No,Yes
+35,Female,Western Cape,3.2,7.0,No,4,Medication,Yes,Yes
+55,Male,Mpumalanga,4.4,10.0,Yes,4,Music,Yes,Yes
+52,Female,Mpumalanga,3.2,8.0,No,2,Prayer,No,No
+32,Male,Limpopo,6.3,10.0,Yes,3,Family,Yes,No
+42,Male,Mpumalanga,5.2,10.0,Yes,3,None,No,No
+54,Male,North West,4.6,10.0,Yes,5,Prayer,No,No
+45,Female,Limpopo,3.7,10.0,Yes,6,None,No,Yes
+27,Female,Gauteng,2.9,10.0,Yes,6,Medication,Yes,No
+56,Male,Free State,4.6,10.0,No,6,Music,No,No
+34,Male,Eastern Cape,1.8,7.0,No,3,Exercise,No,Yes
+56,Female,Northern Cape,5.8,10.0,Yes,6,Exercise,No,Yes
+39,Male,Mpumalanga,3.2,9.0,Yes,4,None,No,No
+43,Male,Gauteng,4.0,10.0,Yes,6,Family,No,No
+42,Female,KwaZulu-Natal,2.1,7.0,No,2,Family,Yes,No
+34,Female,KwaZulu-Natal,4.6,10.0,Yes,4,None,No,No
+30,Male,Eastern Cape,2.8,8.0,No,6,Prayer,Yes,No
+37,Female,Mpumalanga,4.5,10.0,Yes,5,Exercise,Yes,No
+42,Female,North West,4.6,10.0,Yes,4,Prayer,No,No
+21,Male,Eastern Cape,2.5,8.0,No,5,Medication,No,No
+27,Female,Mpumalanga,1.8,7.0,No,5,Exercise,Yes,Yes
+20,Female,Gauteng,5.8,10.0,No,5,Medication,Yes,No
+58,Male,Free State,3.2,8.0,No,4,Music,Yes,Yes
+35,Male,North West,3.8,10.0,Yes,5,Prayer,No,No
+53,Male,Northern Cape,4.2,10.0,Yes,2,None,Yes,Yes
+39,Female,KwaZulu-Natal,1.6,6.0,Yes,2,Exercise,Yes,Yes
+51,Male,Western Cape,4.2,10.0,No,6,Prayer,Yes,Yes
+25,Female,Gauteng,3.6,8.0,No,3,None,No,No
+57,Female,KwaZulu-Natal,2.5,9.0,No,5,Music,No,Yes
+36,Male,Limpopo,1.8,2.0,Yes,1,Exercise,Yes,No
+59,Female,Western Cape,4.4,10.0,Yes,6,Medication,No,Yes
+58,Male,KwaZulu-Natal,5.2,10.0,No,4,Music,Yes,Yes
+54,Female,Eastern Cape,3.8,10.0,Yes,5,Family,No,Yes
+23,Female,North West,1.3,6.0,Yes,3,None,No,Yes
+43,Male,KwaZulu-Natal,1.9,5.0,No,2,Exercise,Yes,No
+51,Female,Northern Cape,2.9,10.0,No,4,Exercise,Yes,Yes
+23,Male,Free State,5.8,10.0,Yes,5,Music,No,Yes
+54,Male,Eastern Cape,3.1,10.0,Yes,6,Exercise,Yes,Yes
+50,Male,Gauteng,2.8,7.0,No,4,None,No,No
+39,Male,Gauteng,1.0,3.0,Yes,2,Music,Yes,No
+38,Other,Gauteng,2.5,9.0,No,4,Medication,Yes,Yes
+23,Male,Gauteng,1.7,7.0,No,3,Music,No,Yes
+23,Male,Free State,2.0,9.0,Yes,4,Music,No,Yes
+21,Female,KwaZulu-Natal,3.7,8.0,Yes,3,Medication,No,Yes
+47,Male,Mpumalanga,2.9,9.0,No,5,Family,Yes,Yes
+28,Other,KwaZulu-Natal,6.0,10.0,Yes,6,None,No,No
+47,Female,Limpopo,5.1,10.0,Yes,4,Family,No,No
+48,Female,North West,2.6,10.0,Yes,4,Family,No,Yes
+41,Male,Western Cape,2.1,6.0,No,2,Family,No,No
+26,Male,Mpumalanga,5.6,10.0,Yes,5,Prayer,Yes,Yes
+20,Male,Mpumalanga,6.0,10.0,Yes,3,Family,No,No
+48,Female,KwaZulu-Natal,0.2,2.0,Yes,0,Prayer,No,Yes
+57,Male,Mpumalanga,3.6,10.0,No,4,Medication,Yes,No
+54,Male,Limpopo,3.1,10.0,Yes,5,None,No,Yes
+53,Other,Western Cape,4.5,10.0,No,5,Family,Yes,No
+41,Female,Northern Cape,6.4,10.0,No,5,Exercise,Yes,Yes
+48,Male,Free State,2.8,10.0,No,4,Medication,No,Yes
+23,Male,KwaZulu-Natal,0.4,4.0,No,2,Prayer,Yes,Yes
+19,Other,Free State,4.4,10.0,Yes,4,None,Yes,Yes
+37,Male,Northern Cape,5.6,10.0,Yes,7,Music,No,No
+45,Female,KwaZulu-Natal,3.0,9.0,No,5,None,No,No
+28,Female,KwaZulu-Natal,2.4,7.0,No,3,None,No,Yes
+21,Male,Western Cape,2.8,7.0,Yes,4,Family,No,Yes
+32,Female,Free State,4.8,10.0,Yes,6,Family,Yes,Yes
+23,Male,Gauteng,2.8,10.0,No,4,Prayer,No,No
+47,Male,Free State,4.0,10.0,No,4,Prayer,No,Yes
+55,Female,North West,3.5,10.0,Yes,3,Family,Yes,Yes
+19,Female,North West,3.4,10.0,Yes,6,Family,No,No
+32,Female,KwaZulu-Natal,4.6,10.0,No,5,Exercise,Yes,Yes
+28,Female,Gauteng,2.8,10.0,Yes,5,Exercise,Yes,No
+25,Male,Eastern Cape,2.9,9.0,No,4,Medication,No,No
+43,Male,Northern Cape,4.7,10.0,Yes,4,Family,No,Yes
+22,Male,Limpopo,2.0,10.0,Yes,4,Music,Yes,Yes
+23,Male,Gauteng,2.2,7.0,Yes,2,Exercise,Yes,No
+43,Male,Limpopo,1.6,5.0,No,3,Prayer,No,Yes
+21,Male,Free State,4.8,10.0,Yes,6,None,Yes,Yes
+36,Male,Free State,3.3,9.0,No,5,Medication,Yes,Yes
+37,Male,Limpopo,1.5,8.0,No,2,Exercise,No,No
+50,Female,Northern Cape,4.8,10.0,Yes,5,None,No,No
+37,Female,Gauteng,2.7,10.0,No,6,None,No,Yes
+29,Male,Eastern Cape,2.2,6.0,No,4,Exercise,No,No
+18,Female,KwaZulu-Natal,3.2,9.0,No,4,Music,No,No
+43,Female,Western Cape,5.7,10.0,Yes,5,Music,No,No
+31,Male,Free State,2.9,8.0,No,4,Medication,Yes,Yes
+55,Female,North West,4.4,10.0,Yes,6,Music,No,Yes
+54,Female,Northern Cape,4.6,10.0,No,6,Medication,No,No
+28,Female,Western Cape,4.2,10.0,Yes,5,Prayer,Yes,No
+53,Male,Eastern Cape,5.4,10.0,Yes,5,Exercise,Yes,No
+30,Female,Mpumalanga,2.4,8.0,Yes,4,None,No,No
+20,Male,KwaZulu-Natal,1.9,8.0,Yes,3,Medication,Yes,No
+50,Female,Free State,1.9,4.0,Yes,3,Music,Yes,No
+23,Female,KwaZulu-Natal,3.3,10.0,Yes,4,Medication,No,No
+27,Female,Western Cape,2.1,7.0,No,4,Family,No,No
+22,Female,KwaZulu-Natal,3.7,10.0,Yes,4,Medication,No,No
+40,Female,Mpumalanga,3.6,10.0,No,5,Music,Yes,Yes
+27,Male,Western Cape,5.0,10.0,No,5,Family,Yes,Yes
+19,Male,Free State,3.9,10.0,Yes,6,Family,No,No
+30,Female,Gauteng,2.9,7.0,No,3,Music,Yes,Yes
+57,Male,North West,4.1,10.0,Yes,4,Family,No,Yes
+19,Male,Western Cape,2.0,7.0,Yes,4,Exercise,Yes,No
+37,Male,Mpumalanga,3.4,10.0,Yes,4,None,No,Yes
+18,Male,Western Cape,4.0,10.0,Yes,7,Exercise,No,No
+54,Other,Western Cape,3.7,9.0,Yes,4,Exercise,Yes,No
+26,Female,Free State,4.1,10.0,Yes,4,Music,No,Yes
+34,Female,Western Cape,2.5,7.0,No,5,Music,Yes,No
+26,Female,North West,5.2,10.0,No,6,None,Yes,No
+28,Female,KwaZulu-Natal,6.2,10.0,No,4,Medication,No,Yes
+32,Male,Free State,1.1,6.0,No,2,Exercise,Yes,No
+41,Female,North West,1.7,6.0,No,3,Family,No,No
+55,Male,Free State,3.6,10.0,Yes,5,None,Yes,Yes
+52,Female,North West,3.1,10.0,Yes,6,Exercise,Yes,Yes
+47,Female,Mpumalanga,6.3,10.0,No,4,Medication,Yes,Yes
+48,Male,North West,3.8,10.0,Yes,6,Family,No,Yes
+22,Other,Limpopo,5.6,10.0,Yes,3,Exercise,No,Yes
+31,Female,North West,0.4,2.0,No,1,Prayer,Yes,Yes
+28,Female,Gauteng,4.7,10.0,Yes,4,None,Yes,No
+26,Male,Gauteng,2.4,7.0,No,3,Music,No,Yes
+51,Female,Northern Cape,2.4,7.0,No,3,Exercise,No,Yes
+29,Female,Limpopo,3.1,10.0,No,6,Family,No,No
+52,Male,Limpopo,1.4,6.0,No,2,Family,No,Yes
+52,Male,KwaZulu-Natal,4.2,10.0,Yes,3,None,No,No
+18,Female,Limpopo,3.8,10.0,Yes,4,None,Yes,No
+57,Male,KwaZulu-Natal,3.9,10.0,Yes,6,Family,Yes,No
+39,Female,Northern Cape,4.8,10.0,No,3,Family,Yes,Yes
+46,Female,Northern Cape,5.8,10.0,Yes,4,Family,No,Yes
+25,Female,Mpumalanga,3.0,10.0,No,6,Exercise,No,Yes
+28,Male,Gauteng,4.2,10.0,Yes,5,Family,No,Yes
+58,Female,North West,3.9,10.0,No,6,Music,Yes,Yes
+54,Male,North West,4.1,9.0,No,2,Family,No,No
+31,Male,Eastern Cape,4.1,10.0,Yes,5,Music,No,No
+47,Female,Free State,5.9,10.0,Yes,6,Exercise,No,No
+52,Male,Mpumalanga,2.8,8.0,No,3,None,Yes,No
+38,Male,Eastern Cape,1.2,6.0,Yes,4,Music,No,No
+54,Female,Eastern Cape,2.5,7.0,No,3,Exercise,Yes,No
+22,Male,Western Cape,4.6,10.0,No,5,Family,No,Yes
+36,Male,Western Cape,3.5,10.0,Yes,6,Exercise,No,Yes
+31,Female,Eastern Cape,2.8,10.0,No,5,Family,Yes,Yes
+43,Female,Limpopo,1.9,5.0,No,2,Exercise,No,No
+21,Female,Free State,3.8,10.0,Yes,6,None,Yes,No
+42,Male,Mpumalanga,4.5,10.0,Yes,4,Music,No,Yes
+59,Male,Eastern Cape,4.0,10.0,Yes,5,None,Yes,Yes
+42,Male,North West,3.1,9.0,Yes,3,Prayer,No,Yes
+35,Male,Free State,3.7,10.0,Yes,5,Family,No,Yes
+57,Female,Western Cape,3.7,9.0,Yes,6,Music,Yes,Yes
+25,Male,North West,3.8,10.0,Yes,5,None,No,No
+56,Male,Western Cape,1.7,6.0,Yes,4,Music,No,No
+57,Female,Western Cape,3.8,9.0,Yes,7,Prayer,Yes,Yes
+31,Female,Free State,2.8,7.0,No,3,Medication,No,No
+49,Female,Western Cape,5.1,10.0,Yes,6,Family,No,Yes
+55,Male,Northern Cape,3.7,10.0,Yes,5,Family,No,No
+50,Male,Gauteng,4.8,10.0,Yes,5,Exercise,No,Yes
+40,Male,Northern Cape,3.0,10.0,No,6,Family,No,No
+32,Male,Gauteng,3.1,10.0,No,5,Family,No,No
+50,Female,Western Cape,5.7,10.0,Yes,4,None,No,No
+42,Female,Mpumalanga,4.2,10.0,Yes,3,Family,No,Yes
+34,Female,Mpumalanga,2.4,8.0,No,4,Family,Yes,No
+50,Female,Gauteng,4.8,10.0,No,6,Prayer,No,Yes
+19,Male,North West,2.7,9.0,Yes,4,Prayer,No,Yes
+31,Female,Free State,3.8,10.0,Yes,5,Music,No,Yes
+57,Male,Western Cape,6.3,10.0,No,5,Music,No,No
+57,Female,Free State,1.4,5.0,No,2,Family,Yes,No
+56,Female,Northern Cape,3.2,8.0,Yes,2,Family,No,Yes
+23,Male,Mpumalanga,4.1,10.0,Yes,6,Exercise,No,Yes
+23,Male,Limpopo,4.6,10.0,Yes,6,Music,No,No
+20,Other,Northern Cape,1.6,6.0,Yes,6,None,Yes,Yes
+24,Male,Northern Cape,1.2,6.0,No,4,Family,Yes,No
+25,Male,Gauteng,5.1,10.0,Yes,6,None,No,Yes
+59,Male,KwaZulu-Natal,2.4,10.0,Yes,3,Family,No,No
+32,Female,Northern Cape,2.4,8.0,No,2,None,Yes,Yes
+46,Female,Western Cape,5.8,10.0,Yes,5,Medication,Yes,No
+50,Female,Eastern Cape,3.6,7.0,Yes,2,None,Yes,Yes
+47,Male,Eastern Cape,3.6,10.0,Yes,4,Music,Yes,Yes
+56,Female,Western Cape,3.2,9.0,Yes,7,Family,Yes,Yes
+44,Male,KwaZulu-Natal,1.7,6.0,No,4,Music,No,Yes
+53,Female,KwaZulu-Natal,4.5,10.0,Yes,4,None,No,Yes
+46,Female,Gauteng,4.1,10.0,Yes,3,Prayer,Yes,Yes
+55,Male,Mpumalanga,3.8,10.0,Yes,4,Prayer,No,No
+50,Male,Free State,3.3,6.0,Yes,2,Prayer,Yes,Yes
+54,Male,KwaZulu-Natal,3.1,9.0,Yes,4,Family,Yes,No
+44,Male,Limpopo,4.9,10.0,Yes,4,Exercise,Yes,No
+50,Male,Gauteng,3.3,10.0,Yes,6,Medication,No,No
+21,Female,North West,3.4,8.0,Yes,3,None,Yes,No
+39,Female,Gauteng,4.3,10.0,Yes,6,Exercise,No,Yes
+19,Male,Northern Cape,3.8,10.0,Yes,5,Prayer,Yes,Yes
+27,Male,Free State,6.0,10.0,Yes,6,None,Yes,No
+22,Male,North West,0.9,4.0,No,2,Exercise,Yes,No
+27,Female,North West,3.9,10.0,Yes,4,Music,No,No
+50,Male,Limpopo,2.4,9.0,Yes,4,Prayer,No,No
+55,Female,Limpopo,2.1,7.0,No,3,Exercise,No,No
+30,Female,Limpopo,2.8,8.0,No,6,Family,Yes,Yes
+48,Female,Gauteng,3.6,9.0,Yes,5,Music,Yes,No
+53,Female,Free State,3.6,9.0,Yes,5,Prayer,Yes,Yes
+41,Male,Gauteng,1.2,4.0,No,3,Medication,Yes,Yes
+32,Other,Eastern Cape,2.7,8.0,No,4,Prayer,No,Yes
+46,Male,Northern Cape,3.9,10.0,Yes,6,Family,Yes,Yes
+25,Male,Northern Cape,2.2,7.0,Yes,3,Medication,Yes,Yes
+22,Female,Limpopo,1.8,9.0,No,4,Medication,No,No
